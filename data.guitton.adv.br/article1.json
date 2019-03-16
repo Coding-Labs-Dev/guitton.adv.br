@@ -1,0 +1,91 @@
+{
+    "title": "Falso Testemunho e a Aplicação de Multa",
+    "author": "Tathyana Guitton",
+    "date": "13/02/2019",
+    "banner": {
+        "src" :"article1-banner.png",
+        "position" : "center bottom"
+    },
+    "intro": "Testemunha que mentiu em juizo é conedenada a multa por crime de falso testemunho.",
+    "content": [
+        {   "class": "normal",
+            "open": false,
+            "content": "A Reforma Trabalhista implementou vários artigos novos ao antigo texto da Consolidação das Leis Trabalhista."
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": "Um desses artigos foi o artigo 793-D, que dispõe que testemunha que intencionalmente alterar a verdade ou omitir fatos essenciais ao julgamento da causa pode ser condenado em multa de 1% a até 10% do valor da causa em que esta serviu de testemunha."
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": "Vejamos o artigo in verbis:"
+        },
+        {
+            "class": "quote",
+            "open": true,
+            "content": "\"Art. 793-D. Aplica-se a multa prevista no art. 793-C desta Consolidação à testemunha que intencionalmente alterar a verdade dos fatos ou omitir fatos essenciais ao julgamento da causa."
+        },
+        {
+            "class":"quote",
+            "open": true,
+            "content": "Parágrafo único. A execução da multa prevista neste artigo dar-se-á nos mesmos autos.\""
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": "Esse dispositivo visa impedir as testemunhas de mentirem ou ocultarem fatos que sejam importantes para auxiliar o juiz da causa a decidir e sentenciar o processo da melhor maneira possível."
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": "A sansão para falso testemunho já era prevista na Lei Penal, no artigo 342 do Código Penal, vejamos:"
+        },
+        {
+            "class": "quote",
+            "open": true,
+            "content": "\"Art. 342. Fazer afirmação falsa, ou negar ou calar a verdade como testemunha, perito, contador, tradutor ou intérprete em processo judicial, ou administrativo, inquérito policial, ou em juízo arbitral:"            
+        },
+        {
+            "class": "quote",
+            "open": true,
+            "content": "Pena - reclusão, de um a três anos, e multa."
+        },
+        {
+            "class": "quote",
+            "open": true,
+            "content": "Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa.\""
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": "O problema em só se ter uma previsão para sansão de falso testemunho na Lei Penal é que, a sansão penal só deve ser aplicada em último caso. Além disso, tal dispositivo possui pouca aplicabilidade, tendo em vista que o parágrafo segundo dispõe que caso a testemunha que cometeu o crime de falso testemunho se retratar ou falar a verdade, a mesma não pode sofrer a punição prevista na lei."            
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": " Na prática, os juízes trabalhistas estão aplicando o artigo 793-D, da CLT cada vez mais."
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": "Advogando em uma reclamação trabalhista, pude presenciar a aplicação desse disposto em primeira mão. Em uma audiência de instrução e julgamento onde a testemunha estava mentindo, a contradisse e assim, o juiz decidiu por fazer uma inspeção presencial no local de trabalho da minha cliente. Ao chegar no local e constatar que a testemunha estava realmente mentindo, em sua sentença, o juiz aplicou sansão de multa para a testemunha."
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": "Vejamos trecho da sentença:"
+        },
+        {
+            "class": "quote",
+            "open": true,
+            "content": "\"A testemunha FOD mentiu ao juízo, mesmo advertida e compromissada com a verdade. Ao depor, disse que trabalhou em frente à reclamante e que de sua mesa era possível ver a autora trabalhando, o que se mostrou absolutamente impossível após a inspeção judicial – que constatou haver uma parede em frente à sala onde trabalhava a autora. Pior: mesmo percebendo que seria feita a inspeção, esperou a mobilização deste magistrado, de servidores da Secretaria da Vara, de servidores do Setor de Segurança e Transporte, dos advogados e das partes para só depois se retratar, acreditando até o último momento que sua mentira não seria pega e demonstrando imenso desprezo por todos que participaram do ato. (...) Assim, entendo que a conduta praticada pela testemunha Felipe Oliveira Dantas, consistente no fato de mentir em Juízo, embora expressamente advertida e compromissada de seus deveres legais, deve ser considerada como um ato destinado à criação de embaraços à efetiva entrega da prestação jurisdicional de natureza final (sentença de mérito, portanto). (...) Desta forma, sem prejuízo de eventual sanção de natureza criminal decorrente da conduta praticada em audiência, que é de competência da Justiça Federal e não da Justiça Especializada, aplico à testemunha, FOD, multa no importe de R$ 700,00, em favor da UNIÃO, diante da gravidade da conduta e o resultado do feito, visando, ainda, a evitar que situações como esta voltem a ocorrer, cujos valores deverão ser pagos no prazo de 10 (dez) dias contados do trânsito em julgado desta decisão, sob pena de ser inscrita como dívida ativa da União Federal, executável nos próprios autos.\""
+        },
+        {
+            "class": "normal",
+            "open": false,
+            "content": "Dessa forma, podemos constatar que esse dispositivo será muito mais eficaz do que a sansão penal."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "articles":[{
+            "src":"article1",
+            "title": "Falso Testemunho e a Aplicação de Multa",
+            "author": "Tathyana Guitton",
+            "date": "13/02/2019",
+            "image": {
+                "src" :"article1-banner.png",
+                "position" : "center bottom"
+            },
+            "intro": "Testemunha que mentiu em juizo é condenada a multa por crime de falso testemunho."
+            }
+
+    ]
+}
